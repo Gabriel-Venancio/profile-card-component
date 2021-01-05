@@ -1,15 +1,17 @@
 <h1 align="center">Profile Card Component</h1>
-<p align="center">Desafio da plataforma Frontend Mentor.</p>
+<p align="center">Desafio da plataforma Front-end Mentor.</p>
 
 ![Badge](https://img.shields.io/github/issues/Gabriel-Venancio/profile-card-component)
 ![Badge](https://img.shields.io/github/forks/Gabriel-Venancio/profile-card-component)
 ![Badge](https://img.shields.io/github/stars/Gabriel-Venancio/profile-card-component)
 ![Badge](https://img.shields.io/github/license/Gabriel-Venancio/profile-card-component)
 
+### Desktop Design
 <h1 align="center">
   <img alt="Profile Card Component" title="#Profile Card Component" src="./screenshots/desktop-design.jpg" />
 </h1>
 
+### Mobile Design
 <h1 align="center">
   <img alt="Profile Card Component" title="#Profile Card Component" src="./screenshots/mobile-design.jpg" />
 </h1>
