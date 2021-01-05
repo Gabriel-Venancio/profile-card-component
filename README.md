@@ -1,5 +1,5 @@
 <h1 align="center">Profile Card Component</h1>
-<p align="center">Desafio da plataforma [Front-end Mentor](https://www.frontendmentor.io/).</p>
+<p align="center">Desafio da plataforma Front-end Mentor.</p>
 
 ![Badge](https://img.shields.io/github/issues/Gabriel-Venancio/profile-card-component)
 ![Badge](https://img.shields.io/github/forks/Gabriel-Venancio/profile-card-component)
