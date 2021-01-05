@@ -1,5 +1,5 @@
 <h1 align="center">Profile Card Component</h1>
-<p align="center">Desafio da plataforma Front-end Mentor.</p>
+<p align="center">Desafio da plataforma [Front-end Mentor](https://www.frontendmentor.io/).</p>
 
 ![Badge](https://img.shields.io/github/issues/Gabriel-Venancio/profile-card-component)
 ![Badge](https://img.shields.io/github/forks/Gabriel-Venancio/profile-card-component)
@@ -19,7 +19,7 @@
 ### :dart: Objetivo
 
 
-Criar um profile card do desafio Front-end Mentor, colocando em prática conhecimentos adquiridos em HTML e CSS.
+Criar um profile card do desafio [Front-end Mentor](https://www.frontendmentor.io/), colocando em prática conhecimentos adquiridos em HTML e CSS.
 
 ### :blush: Pré-requisitos
 
