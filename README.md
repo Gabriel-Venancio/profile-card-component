@@ -16,26 +16,26 @@
   <img alt="Profile Card Component" title="#Profile Card Component" src="./screenshots/mobile-design.jpg" />
 </h1>
 
-### :dart: Objetivo
+## Objetivo
 
 
 Criar um profile card do desafio [Front-end Mentor](https://www.frontendmentor.io/), colocando em prática conhecimentos adquiridos em HTML e CSS.
 
-### :blush: Pré-requisitos
+## Pré-requisitos
 
 Para visualizar o site em sua máquina, você só precisa ter um navegador de sua preferência, depois de fazer o Git Clone.
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🛠 Tecnologias
+## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML5
 - CSS
 
-### 📜 Licença
+## Licença
 
 This project could be used by anyone! MIT License
 
-### :smiley: Autor
+## Autor
 Feito com ❤️ por Gabriel Venancio 
